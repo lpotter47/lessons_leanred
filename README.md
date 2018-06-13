@@ -3,3 +3,4 @@
 3. CSS
 4. Git/Github
 5. Semantic HTML
+6. Command Line
